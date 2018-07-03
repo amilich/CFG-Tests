@@ -16,3 +16,4 @@ def can_replace(string, nontermial):
 if __name__ == '__main__': 
 	# make nonterminal 
 	# make string 
+	pass
